@@ -11,5 +11,5 @@
     3. When the loop is exited, execute the sum function created while passing in the slice of integers.
 * Comment/Irrelevant codes - [testProgram/irrelevant.go](https://github.com/JoyNwaiwu/Golang/blob/master/testProgram/irrelevant.go).
 * Getting started with APIs using Golang Chi Router, [here - Internweb](https://github.com/JoyNwaiwu/Golang/tree/master/internweb).
-* Blog API for users, posts and comments using MongoDB, Golang Chi Router, json/bson, [here - BlogApi](https://github.com/JoyNwaiwu/Golang/tree/master/Blog%20Api).
+* Blog API for `users`, `posts` and `comments` using MongoDB, Golang Chi Router, json/bson, [here - BlogApi](https://github.com/JoyNwaiwu/Golang/tree/master/Blog%20Api).
 * Simulating a **heist** while playing around with Go conditionals [here - Article](https://joynwaiwu.hashnode.dev/planning-a-heist-with-conditionals-in-go) and [here - Projects/heist.go](https://github.com/JoyNwaiwu/Golang/blob/master/Projects/heist.go).
